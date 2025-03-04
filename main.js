@@ -1,0 +1,1 @@
+// This file is intentionally left empty as we're using only HTML and CSS for this portfolio
